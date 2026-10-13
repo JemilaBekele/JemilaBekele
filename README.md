@@ -1,4 +1,4 @@
-Header: your name, a moving typing line (“Full-Stack Developer · Electrical & Computer Engineering Student · I build software that runs real businesses”) and a profile-views counter.
+Jemila Bekele, a moving typing line (“Full-Stack Developer · Electrical & Computer Engineering Student · I build software that runs real businesses”) and a profile-views counter.
 About me: your original points with the typos fixed, plus SmartDent running in 12+ clinics:
 coding and electronics
 learning electrical and computer engineering
